@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+      "@solana/web3.js": "^1.89.1",
+      "bigint-buffer": "^1.1.5"
+    },
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node Wallet.js",
+      "rebuild": "node Wallet.js"
+    }
+  }
+  
